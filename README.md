@@ -10,7 +10,7 @@
 * A top file menu with Exit to exit the app
 * A Quit Button on the interface to stop the player
 
-Note: Current changes being done are only to aesthetics of the GUI, as the media player functionality is already in place. Only certain aspects of the GUI are currently undergoing changes, such as the background, colors, images.
+Note: Current changes being done are only to aesthetics of the GUI, as the media player functionality is already in place. Changes currently being done are to: layout, alignment, background, colors, and images.
 
 Here's a screenshot of the current GUI: A work in progress.
 
